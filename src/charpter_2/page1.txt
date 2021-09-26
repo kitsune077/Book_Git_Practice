@@ -1,0 +1,7 @@
+
+
+
+
+Test automation is far from a bleeding-edge concept these days. Many organizations understand the value of scripting tests to discover issues sooner and reduce testing backlogs.
+
+But effective test automation is easier said than done. Even with a well-designed approach or framework, organizations can run into talent shortages and other hurdles to effective testing. Luckily, with the right investments, you can overcome these challenges.
